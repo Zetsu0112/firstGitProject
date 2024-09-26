@@ -1,0 +1,5 @@
+1. Um in IntelliJ zu commiten, muss man auf der linken Seite des
+   Bildschirms auf die Taste "Commit" (ALT + 0) drücken.
+   Dann kann man alle Veränderungen (changes) auswählen die man commiten möchte und
+   eine kurze Nachricht zu den changes schreiben.
+   Schlussendlich kann man die Veränderungen commiten oder auch pushen.
